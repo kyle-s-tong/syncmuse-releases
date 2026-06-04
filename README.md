@@ -15,7 +15,7 @@ It works from your bounced audio, not your project files, so it doesn't care whi
 
 ## Download
 
-→ **[Get the latest version](../../releases/latest)**
+→ **[Get the latest version](https://github.com/kyle-s-tong/syncmuse-releases/releases/download/v0.1.2/SyncMuse-0.1.2-universal.dmg)**
 
 Download the file, open it, and drag SyncMuse into your Applications folder. That's it.
 
